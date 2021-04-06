@@ -1,0 +1,10 @@
+P,Jane Doe,CS,7/1/2020,45.9
+F,John Doe,CS,6/30/2019,76430
+F,Charlie Brown,CS,4/30/2019,56000
+F,Amy Harrison,IT,3/31/2020,69000
+M,Eric Haskell,IT,9/1/2015,101000,2
+M,Sunny White,IT,2/28/2016,89300,1
+M,Henry Young,IT,2/1/2005,120000,3
+P,Bob Scanlan,ECE,5/12/2019,24.59
+P,Jeff Clinton,ECE,10/1/2001,39.99
+P,Carey Wang,ECE,11/30/2017,26.59
